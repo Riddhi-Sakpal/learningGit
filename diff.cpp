@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    int firstNumber=6, secondNumber=3 , sumOfTwoNumbers;
+    int firstNumber = 6, secondNumber = 3;
+    int sumOfTwoNumbers;
 
     cout << "Enter two integers: ";
     cin >> firstNumber >> secondNumber;
