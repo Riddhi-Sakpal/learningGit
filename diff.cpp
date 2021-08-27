@@ -15,4 +15,4 @@ int main()
     cout << firstNumber << " - " << secondNumber << " = " << sumOfTwoNumbers;
 
     return 0;
-}
+}       
